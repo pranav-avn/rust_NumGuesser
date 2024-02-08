@@ -1,1 +1,1 @@
-rust test
+minimal number guessing game built in rust
